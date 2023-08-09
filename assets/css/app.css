@@ -25,9 +25,10 @@
     background: url("../img/Background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    height: 115vh;
   }
   
-  .tree {
+  .tree { 
     margin: 126px auto;
     padding-inline: 44px;
     max-width: 414px;
@@ -108,7 +109,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin-top: -10%;
+    margin-top: -5%;
   }
   
   .social-container > a:hover {
